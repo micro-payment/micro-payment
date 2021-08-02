@@ -1,3 +1,9 @@
+# Micro Payments
+
+You are tired of ads? You do not want your personal data to be used as currency? You would instead like to pay for services?
+
+If you answer **yes** to all questions, micro payments may be a solution for you.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/micro-payment/micro-payment/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
