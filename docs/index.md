@@ -4,7 +4,7 @@ You are tired of ads? You do not want your personal data to be used as currency?
 
 If you answer **yes** to all questions, micro payments may be a solution for you.
 
-The base unit will be **cents**, a small amount of money, actually the average between EUR and USD cents. We will handle requests between 1 and 99 cents. More than 99 cents are not micto payments, right? We anticipate most services being in the single digit range.
+The base unit will be **cents**, a small amount of money, actually the average between EUR and USD cents. We will handle requests between 1 and 99 cents. More than 99 cents are not micro payments, right? We anticipate most services being in the single digit range.
 
 If one cent is too course grain for your web app, e.g., you want to deliver an email service, you can offer several of your service units for a single cent. E.g., sending of 10 emails for one cent.
 
