@@ -8,4 +8,4 @@ The base unit will be **cents**, a small amount of money, actually the average b
 
 If one cent is too course grain for your web app, e.g., you want to deliver an email service, you can offer several of your service units for a single cent. E.g., sending of 10 emails for one cent.
 
-BTW, think how email traffic would change, if it would cost something, even just a little. Spam would be a thing of the past. Maybe many of us would think a bit longer before hitting reply with just a few words. Maybe we could get email traffic down to a managable volume. Yust dreaming ;-)
+BTW, think how email traffic would change, if it would cost something, even just a little. Spam would be a thing of the past. Maybe many of us would think a bit longer before hitting reply with just a few words. Maybe we could get email traffic down to a managable volume. Just dreaming ;-)
